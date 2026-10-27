@@ -1,0 +1,9 @@
+id,utilisateur,sujet,description
+T-1001,Utilisateur A,Impossible de me connecter,Mon mot de passe ne fonctionne plus depuis ce matin et mon compte est verrouillé.
+T-1002,Utilisateur B,Le VPN se déconnecte,Depuis la maison le VPN se coupe toutes les 10 minutes et internet est très lent.
+T-1003,Utilisateur C,Imprimante du 2e étage,L'imprimante n'imprime plus rien et la file d'attente est bloquée.
+T-1004,Utilisateur D,URGENT - plus d'accès à rien,Tout le service ne peut plus se connecter aux fichiers partagés depuis 8h. Production arrêtée.
+T-1005,Utilisateur E,Outlook ne synchronise plus,Mes courriels n'arrivent plus et mon calendrier est vide dans Outlook.
+T-1006,Utilisateur F,Courriel bizarre,J'ai reçu un courriel qui demande mes identifiants avec un lien. J'ai peut-être cliqué dessus.
+T-1007,Utilisateur G,PC très lent,Mon portable est très lent et gèle quand j'ouvre Excel.
+T-1008,Utilisateur H,Question sur ma facture de cellulaire,Je voudrais savoir combien coûte mon forfait.
