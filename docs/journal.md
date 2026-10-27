@@ -29,6 +29,8 @@ Une entrée par séance : date, durée, ce que j'ai fait, problèmes rencontrés
 ### Preuves
 - Capture d'écran de la page Paramètres → Comptes → Autres utilisateurs (`docs/screenshots/2026-10-27-comptes.png`).
 
+![Comptes locaux de la VM Windows 11](screenshots/2026-10-27-comptes.png)
+
 ### Prochaines étapes
 - Corriger le nom du compte `utilistateur1`.
 - Phase 2 : réinitialiser un mot de passe, créer un dossier partagé avec permissions, tester le réseau (`ipconfig /all`, `ping`, `nslookup`).
